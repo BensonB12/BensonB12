@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @BensonB12
-- 👀 I’m interested in Sharks, MTG, and learning programming.
-- 🌱 I’m currently learning the basics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming.
+- 💞️ I’m looking to collaborate on anything, I love being apart of projects!
+- 📫 How to reach me Bensonbird2@gmail.com
 
-<!---
-BensonB12/BensonB12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
